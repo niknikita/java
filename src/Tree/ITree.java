@@ -6,5 +6,5 @@ package Tree;
 public interface ITree {
     public void get(String key);
 
-    public void put(String value);
+    public void put(String key, String value);
 }

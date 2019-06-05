@@ -12,11 +12,11 @@ public class Main {
         System.out.println("");
 
 
-        tree.put("baa");
-        tree.put("bab");
-        tree.put("aav");
-        tree.put("afa");
-        tree.put("bz9");
+        tree.put("baa", "qqq");
+        tree.put("bab", "www");
+        tree.put("aav", "eee");
+        tree.put("afa", "rrr");
+        tree.put("bz9", "ttt");
 
         System.out.println("");
         tree.get("baa");
